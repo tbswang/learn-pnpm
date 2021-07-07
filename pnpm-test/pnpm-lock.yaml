@@ -2,9 +2,11 @@ lockfileVersion: 5.3
 
 specifiers:
   express: ^4.17.1
+  qs: 6.7.0
 
 dependencies:
   express: 4.17.1
+  qs: 6.7.0
 
 packages:
 
@@ -144,7 +146,7 @@ packages:
     dev: false
 
   /qs/6.7.0:
-    resolution: {integrity: sha1-QdwaAV49WB8WIXdr4xr7KHapsbw=, tarball: qs/download/qs-6.7.0.tgz?cache=0&sync_timestamp=1616385594131&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fqs%2Fdownload%2Fqs-6.7.0.tgz}
+    resolution: {integrity: sha1-QdwaAV49WB8WIXdr4xr7KHapsbw=, tarball: qs/download/qs-6.7.0.tgz}
     engines: {node: '>=0.6'}
     dev: false
 
