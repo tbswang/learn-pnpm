@@ -1,0 +1,21 @@
+{
+  "name": "pack-a",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/cli": "7.14.5",
+    "@babel/core": "7.14.5",
+    "comp1": "file:../../../../comp1",
+    "dayjs": "^1.10.6",
+    "qs": "6.7.0",
+    "react": "16",
+    "react-dom": "16"
+  }
+}
